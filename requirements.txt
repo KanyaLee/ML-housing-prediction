@@ -18,7 +18,7 @@ jsonschema-specifications==2023.7.1
 markdown-it-py==3.0.0
 MarkupSafe==2.1.3
 mdurl==0.1.2
-numpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_bdk7p7tnsw/croot/numpy_and_numpy_base_1682520579379/work
+numpy==1.24.3
 packaging==23.1
 pandas==2.0.3
 Pillow==9.5.0
